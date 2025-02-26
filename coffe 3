@@ -1,0 +1,20 @@
+print('Welcome to my Coffee Shop!')
+Welcome to my Coffee Shop!
+Python 3.13.2 (v3.13.2:4f8bb3947cf, Feb  4 2025, 11:51:10) [Clang 15.0.0 (clang-1500.3.9.4)] on darwin
+Type "help", "copyright", "credits" or "license()" for more information.
+print('Welcome to Python!')
+Welcome to Python!
+print('Welcome to my Coffee Shop!')
+Welcome to my Coffee Shop!
+name = input("What's your name?")
+What's your name? Paul
+name
+' Paul'
+print(name)
+ Paul
+7>4
+True
+def __innit__(self):
+    self.menu = {
+        'espresso': 3.50
+        
